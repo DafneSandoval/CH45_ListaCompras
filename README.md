@@ -15,7 +15,7 @@ Los objetivos son:
 4. Realizar las operaciones para conocer el total de elementos X
 5. Realizar las operaciones para conocer el total en costo X
 6. Almacenar la información en el almacenamiento local del navegador X
-7. Mostrar la información almacenada cuando se abra la página
+7. Mostrar la información almacenada cuando se abra la página X
 
 
 ---
